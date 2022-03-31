@@ -13,7 +13,7 @@ public class Ej02 : MonoBehaviour
     {
         int num1 = 4;
         int num2 = 5;
-        Debug.Log("El resultado de la suma es " + num1 + num2);
+        Debug.Log("El resultado de la suma es " +( num1 + num2 ));
         Debug.Log("El resultado del producto es " + num1 * num2);
       
     }

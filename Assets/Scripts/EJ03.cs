@@ -12,7 +12,7 @@ public class EJ03 : MonoBehaviour
     void Start()
     {
 
-        Debug.Log("Buen dia" + nombre);
+        Debug.Log("Buen dia " + nombre);
     }
 
     // Update is called once per frame
